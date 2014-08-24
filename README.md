@@ -1,4 +1,4 @@
 datbayes.py
 ===========
 
-datbayes.py
+this does bayes.
